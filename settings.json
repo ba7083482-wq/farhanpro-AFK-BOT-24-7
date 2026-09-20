@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "Fetiliversmp.aternos.me",
+    "port": 19094,
     "version": "1.20.1",
     "try-creative": false
   },
